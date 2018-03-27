@@ -1,0 +1,61 @@
+body{
+text-align: center;
+font-family: Century Gothic;
+font-size: 24px;
+background-color: #EB5176;
+color: white;
+cursor:url(http://cur.cursors-4u.net/cursors/cur-8/cur757.cur), auto;
+}
+li{
+	text-align: center;
+	font-family: Century Gothic;
+	font-size: 24px;
+}
+h{
+	text-align: center;
+	font-family: Century Gothic;
+	font-size: 30px;
+}
+h1{
+	text-align: center; 
+	font-family: Century Gothic;
+	color: #FF0000;
+}
+p{
+	color: white;
+	margin-left: 400px;
+	margin-right:400px;
+}
+button{
+	background-color: #FFFDFF;
+	size: 40px;
+	font-family: Century Gothic;
+}
+marquee{
+	color: #5D2B8F;
+	font-size: 50px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #473FB8;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 15px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #8D7DBA;
+}
