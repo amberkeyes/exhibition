@@ -2,23 +2,22 @@ body{
 text-align: center;
 font-family: Century Gothic;
 font-size: 24px;
-background-color: #EB5176;
-
+background-color: #EDA1B5;
 color: white;
-cursor:url(http://cur.cursors-4u.net/cursors/cur-8/cur757.cur), auto;
+cursor: url(http://ani.cursors-4u.net/nature/nat-11/nat1053.cur), auto;
 }
 li{
-	text-align: center;
+	
 	font-family: Century Gothic;
 	font-size: 24px;
 }
 h{
-	text-align: center;
+	
 	font-family: Century Gothic;
 	font-size: 30px;
 }
 h1{
-	text-align: center; 
+	
 	font-family: Century Gothic;
 	color: #FF0000;
 }
@@ -33,7 +32,7 @@ button{
 	font-family: Century Gothic;
 }
 marquee{
-	color: #5D2B8F;
+	color: white;
 	font-size: 50px;
 }
 ul {
